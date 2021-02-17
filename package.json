@@ -3,7 +3,7 @@
     "name":"Nathan Strauser"
   },
   "bugs": {
-    "url": "https://github.com/natestrauser/react-sigpad"
+    "url": "https://github.com/nate-strauser/react-sigpad"
   },
   "dependencies": {
     "classnames": "^2.2.5"
@@ -19,7 +19,7 @@
     "webpack": "^1.10.1",
     "webpack-dev-server": "^1.10.1"
   },
-  "homepage": "https://github.com/natestrauser/react-sigpad",
+  "homepage": "https://github.com/nate-strauser/react-sigpad",
   "keywords": [
     "react",
     "react-component",
@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/natestrauser/react-sigpad.git"
+    "url": "git+https://github.com/nate-strauser/react-sigpad.git"
   },
   "scripts": {
     "dist": "webpack -p --config webpack.production.config.js",
